@@ -9,7 +9,7 @@ body{
 }
 .box{
     position: relative;
-    width: 700px;
+    width: 754px;
     height: 300px;
     margin: 115px auto 0;
     cursor: pointer;
@@ -23,7 +23,7 @@ body{
     text-align: center;
 }
 .box .slide-next{
-    right: -100px;
+    right: -60px;
 }
 .box .slide-prev{
     left: -60px;
